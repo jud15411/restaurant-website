@@ -1,0 +1,77 @@
+.header1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.header {
+    text-align: center;
+    justify-content: center;
+    color: red;
+    padding: 5px 5px;
+}
+
+.line-br1 {
+    width: 700px;
+}
+
+.line-br2 {
+    width: 500px;
+    border-color: black;
+}
+
+
+#navbar {
+    display: flex;
+    justify-content: center;;
+}
+
+#navbar li {
+    list-style: none;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.navbar-img {
+    flex: 1;
+}
+
+.navbar-text-main {
+    display: flex;
+    float: left;
+}
+
+.navbar-text {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+.navbar-logo {
+    position: relative;
+    width: 20%;
+    height: 20%;
+}
+
+.hp-img {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.home-about {
+    display: flex;
+    justify-content: center;
+}
+
+.home-side1 {
+    width: 325px;
+    justify-content: center;
+    margin-right: 30px;
+    font-family: 'ArialMT', 'Arial', sans-serif;
+}
+
+.home-side2 {
+    justify-content: center;
+    font-family: 'ArialMT', 'Arial', sans-serif;
+}

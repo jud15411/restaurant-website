@@ -1,0 +1,8 @@
+.about-heading {
+    display: flex;
+    justify-content: center;
+}
+
+.about-heading h1 {
+    color: red;
+}
