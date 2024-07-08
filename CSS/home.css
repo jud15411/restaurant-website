@@ -17,7 +17,7 @@
 
 .line-br2 {
     width: 500px;
-    border-color: black;
+    border-color: darkslategrey;
 }
 
 
@@ -43,8 +43,14 @@
 
 .navbar-text {
     text-decoration: none;
+    color: grey;
+    font-size: 20px;
+}
+
+.navbar-text:hover {
+    text-decoration: none;
     color: black;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .navbar-logo {
@@ -74,4 +80,12 @@
 .home-side2 {
     justify-content: center;
     font-family: 'ArialMT', 'Arial', sans-serif;
+}
+
+.home-text {
+    color: black;
+}
+
+.menu-text {
+    color: black;
 }
